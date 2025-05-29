@@ -1,6 +1,8 @@
 # SweetDream
 Final Project of GDM221 – Fundamental for game programming (2/2567) || KMUTT || MDT <br><br>
 
+Unity Version : 2022.3.60f1<br><br>
+
 Core concept<br>
 The player takes on the role of a sorcerer who has been cursed to battle their own dreams every night when they fall asleep. If they fail to escape their dream, they will fall into an eternal slumber. Therefore, they must awaken from their own dream and gather resources to purchase magical talismans that grant the player skills, which can be mixed and matched freely. Players can also decorate their bedroom with various items that enhance the character’s power, such as dolls, flowers, ornaments, furniture, and more — all of which increase the character's status. The bedroom thus becomes the center of the character’s power. As a result, the game emphasizes not only combat but also customization as a core aspect.<br><br>
 
